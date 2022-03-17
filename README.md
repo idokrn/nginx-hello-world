@@ -1,4 +1,4 @@
 # Quick-Start
 ---
-[EX1 README](exercise1/README.md)<br>
-[EX2 README](exercise2/README.md)
+[Exercise 1](exercise1/)<br>
+[Exercise 2](exercise2/)
